@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<p>Modification done in about.jsp</p>
-<p> Added chnages in about jsp file</p>
+<h1> I am from User JSP</h1>
 </body>
 </html>
